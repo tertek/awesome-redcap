@@ -7,11 +7,20 @@
 
 _Source:_ [Official REDCap Website](https://projectredcap.org/)
 
+# Contents <!-- omit in toc -->
+<!-- TOC -->
+- [Official Resources](#official-resources)
+  - [General](#general)
+  - [External Modules](#external-modules)
+- [Projects](#projects)
+
+<!-- /TOC -->
+
 # Official Resources
 ## General
 - [REDCap Community Forum](https://community.projectredcap.org/)
 - [REDCap Consortium Resources](https://redcap.vanderbilt.edu/community/post.php?id=26)
-- 
+
 ## External Modules
 - [External Modules Repository(Web)](https://redcap.vanderbilt.edu/consortium/modules/)
 - [External Modules Repository(API)](https://redcap.vanderbilt.edu/consortium/modules/api/)
@@ -21,3 +30,4 @@ _Source:_ [Official REDCap Website](https://projectredcap.org/)
 
 # Projects
 - [REDCap Tools](https://github.com/redcap-tools)
+
