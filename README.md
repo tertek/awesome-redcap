@@ -29,5 +29,15 @@ _Source:_ [Official REDCap Website](https://projectredcap.org/)
 - [External Modules Framework](https://github.com/vanderbilt-redcap/external-module-framework)
 
 # Projects
+## Tools
 - [REDCap Tools](https://github.com/redcap-tools)
+- [create-redcap-module](https://github.com/tertek/create-redcap-module)
+
+## Development & Testing Environments
+- [REDCap Cypress Testing](https://github.com/aldefouw/redcap_cypress)
+- [REDCap Docker Compose](https://github.com/123andy/redcap-docker-compose)
+- [REDCap Docker Instance](https://github.com/aldefouw/redcap_docker)
+
+## Cloud Deployment
+- [Azure REDCap PAAS](https://github.com/microsoft/azure-redcap-paas)
 
