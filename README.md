@@ -32,6 +32,7 @@ _Source:_ [Official REDCap Website](https://projectredcap.org/)
 ## Tools
 - [REDCap Tools](https://github.com/redcap-tools)
 - [create-redcap-module](https://github.com/tertek/create-redcap-module)
+- [REDCap Exporter](https://github.com/dewittpe/REDCapExporter)
 
 ## Development & Testing Environments
 - [REDCap Cypress Testing](https://github.com/aldefouw/redcap_cypress)
