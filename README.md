@@ -29,6 +29,11 @@ _Source:_ [Official REDCap Website](https://projectredcap.org/)
 - [External Modules Framework](https://github.com/vanderbilt-redcap/external-module-framework)
 
 # Projects
+Third party projects that are useful for working with or on REDCap.
+
+## Data Access & Analysis
+- [redcapAPI R package](https://cran.r-project.org/web/packages/redcapAPI/index.html)
+
 ## Tools
 - [REDCap Tools](https://github.com/redcap-tools)
 - [create-redcap-module](https://github.com/tertek/create-redcap-module)
